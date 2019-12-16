@@ -29,13 +29,6 @@ The first line of input contains a single integer T (1 <= T <= 10 000), the numb
 followed by T lines, one per test case. Each test case is specified by two space-separated integers, A and B (1 <= A <= B <= 106).
 
 Output
-For each test case, output a single line containing the number of happy numbers between A and B,
-inclusive. Sample Input Sample Output Sample Output, with visualized whitespace
+For each test case, output a single line containing the number of happy numbers between A and B, inclusive. 
 
-2 5 5\n
-
-1 20 0 0\n
-
-14 18
-
-Note: is a space, and \n is a newline character.
+Sample Input Sample Output Sample Output, with visualized whitespace are provided in files
