@@ -1,4 +1,4 @@
-Problem A: Happy and Unhappy Numbers
+#Problem A: Happy and Unhappy Numbers
 
 Several numbers in various states of unhappiness. Image by Sylfida (Shutterstock), Used under license 
 It turns out there are such things as happy numbers and unhappy numbers. We’re going to assume that you have been using these
