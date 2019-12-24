@@ -13,13 +13,12 @@ where nj+1 is the sum of the squares of the base-10 digits of nj , for j >= 0. T
 i >= 0 such that ni = 1; otherwise, n is unhappy.
 If you are still confused, take a look at the process for the number 19, which is happy:
 
-`12 + 92 = 82
-
+```
+12 + 92 = 82
 82 + 22 = 68
-
 62 + 82 = 100
-
-12 + 02 + 02 = 1`
+12 + 02 + 02 = 1
+```
 
 Given two positive integers A and B (with A <= B), your challenge is to determine how many happy
 numbers there are between A and B (inclusive).
